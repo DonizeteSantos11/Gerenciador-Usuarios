@@ -112,4 +112,4 @@ function Cadastro({usuarios,setUsuarios}){
     )
 }
 
-export default Cadastro
+export default Cadastro 
